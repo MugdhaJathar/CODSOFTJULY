@@ -1,0 +1,20 @@
+{
+   "ques" : [
+    "1.Number of primitive data types in Java are?",
+    "2.Arrays in java are-",
+    "3.When is the object created with new keyword?",
+    "4.Identify the keyword among the following that makes a variable belong to a class,rather than being defined for each instance of the class.",
+    "5.In which of the following is toString() method defined?"
+    ],
+
+    "options" : [
+    ["6", "7", "8", "9"],
+    ["Object refernces","objects","primitive data type","none"],
+    ["at run-time", "at compile-time", "Depends on the code", "none"],
+    ["final","static","volatile","abstract"],
+    ["java.lang.Object", "java.lang.String", "java.lang.util", "None"]
+    ],
+
+    "ans" : [ 3, 2, 1, 2, 1]
+
+}
